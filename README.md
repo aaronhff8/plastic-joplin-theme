@@ -1,7 +1,7 @@
-# plastic-joplin-theme
+# Plastic-Joplin-Theme
 Theme for Joplin that utilises the standard dark theme and essentially a restyling of [Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin). A big thankyou to Nacandev for creating such an amazingly in-depth repository for me to learn from. Using this theme I styled it to a colour scheme that better suits myself and my needs. The colour scheme applied is also borrowed extensively from the [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) theme for VSCode. Having enjoyed both these themes, I took upon blending them together for a vibrant theme that isn't vexing.
 
-
+<img src="https://github.com/aaronhff8/plastic-joplin-theme/blob/main/screenshot.png">
 
 ## Fonts
 
