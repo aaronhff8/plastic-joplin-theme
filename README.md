@@ -59,6 +59,12 @@ Hover Background color: #0F283D
 Active background color: #1085ff
 Divider color: #B87C47
 
+ - Window's Accent
+ I know it's not a plugin but probably fits best here as 'optional theme additions'. I am running Windows 10 and set the accent colour to match joplin's dark colour so the menu and title bar blend perfectly. To do so:
+ 1. Right-click your desktop- Personalise
+ 2. Go to Colours, click custom colour
+ 3. Click more colours, paste #292A2D into the HEX field, click Done
+ 4. Scroll down, ensure 'Title Bars and Window Borders' is activated
 
 The settings that I haven't explicitly stated, assume that I use the default value.
 
