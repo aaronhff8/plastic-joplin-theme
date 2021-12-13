@@ -1,5 +1,5 @@
 /* Plastic Joplin, styling the Markdown Editor and Joplin UI */
-/*A bunch of variables have been consolidated in the :root in order to help switching in and out colours to your heart's content. The coding colours and syntax stuff are likely overlooked by myself but in my use they seem to fit nicely. Apologies for some of the double-ups in formatting text colours.*/
+/*A bunch of variables have been consolidated in the :root in order to help switching in and out colours to your heart's content. The coding colours and syntax stuff are likely overlooked by myself but in my use they seem to fit nicely*/
 
 
 
@@ -21,6 +21,7 @@
   --color-italics:      #3899AF;
   --color-bold:         #E5C07B;
   --color-quote:        #B05A3E;
+  --color-code:         #9080ffcc;
 
   --color-background: #141414;
 
@@ -918,7 +919,7 @@
     background-color: var(--np-sync-button) !important;
     border: none !important;
     border-radius: 1em !important;
-    opacity: 0.7;
+    opacity: 0.9;
   }
   .sidebar > div > button:hover {
     filter: var(--np-sync-btn-hover);
@@ -1197,7 +1198,7 @@
 
 /* inline code */
 .cm-s-material-darker pre.CodeMirror-line > span > span.cm-comment {
-  color:            var(--color-italics) !important;
+  color:            var(--color-code) !important;
   border:           var(--border-code);
   background-color: var(--backgd-code);
   border-radius:    var(--radius-code);
