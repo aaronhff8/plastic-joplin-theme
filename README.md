@@ -63,4 +63,4 @@ Divider color: #B87C47
 The settings that I haven't explicitly stated, assume that I use the default value.
 
 ## Anything extra
-Just in case there's anything else I need to add to this. Essentially, I hope you enjoy it and you have no issues installing and getting it running. 
+Just in case there's anything else I need to add to this. Essentially, I hope you enjoy it and you have no issues installing and getting it running. Oh and a quick thankyou to [mattsbennet](https://github.com/mattsbennett/joplin-Nord2) for his sample.md file for the screenshot.
