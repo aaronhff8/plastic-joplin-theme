@@ -1,12 +1,7 @@
-/* OhmineDT v2.2.10 | userchrome.css | styling the Markdown Editor and Joplin UI */
+/* Plastic Joplin, styling the Markdown Editor and Joplin UI */
+/*A bunch of variables have been consolidated in the :root in order to help switching in and out colours to your heart's content. The coding colours and syntax stuff are likely overlooked by myself but in my use they seem to fit nicely*/
 
-/* By usual case, you would only to edit the source code within the root section (line 11 to 228) to fulfill most of your personal needs */
 
-/* Please let me know if you found any bad issue when using OhmineDT. */
-/* And sure, you can share any of your ideas with me too! */
-/* Thank you guys! I hope you are enjoy what's OhmineDT did for you! */
-/* Tell me whatever you want > Joplin Forum: https://discourse.joplinapp.org/t/css-theme-ohmine-dark-theme/21000 */
-/* Directly report an issue > Github: https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin/issues/new/choose */
 
 :root {
   --titleheader: #14588b;
@@ -106,14 +101,14 @@
     --strikethrough-text: #b1a291;
   
     /* syntax tags ------------------------------------------- */
-    --syntax-tag: #a0a0a0;
-    --syntax-tag-background: #2f0008;
+    --syntax-tag: #ffffff;
+    --syntax-tag-background: #964d35;
   
-    --syntax-string: #a0a0a0;
-    --syntax-string-background: #ff0000;
+    --syntax-string: #ffffff;
+    --syntax-string-background: #338a9e;
   
-    --syntax-attribute: #a0a0a0;
-    --syntax-attribute-background: #36005a;
+    --syntax-attribute: #ffffff;
+    --syntax-attribute-background: #7b9e62;
   
     /* plugin: markdown table colorize ----------------------- */
     --mtc-table-vertical-bar: #5a5a5a;
@@ -386,7 +381,7 @@
   
   /* group:  emphasize | abbreviation ------------------------ */
   .cm-em:not(.cm-image-alt-text) {
-    color: var(--emphasize-text) !important;
+    color: var(--color-italics) !important;
   }
   
   /* strong text --------------------------------------------- */
