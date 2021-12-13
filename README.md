@@ -1,5 +1,5 @@
 # Plastic-Joplin-Theme
-Theme for Joplin that utilises the standard dark theme and essentially a restyling of [Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin). A big thankyou to Nacandev for creating such an amazingly in-depth repository for me to learn from. Using this theme I styled it to a colour scheme that better suits myself and my needs. The colour scheme applied is also borrowed extensively from the [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) theme for VSCode. Having enjoyed both these themes, I took upon blending them together for a vibrant theme that isn't vexing. Another point which might be a big turn off is the
+Theme for Joplin that utilises the standard dark theme and essentially a restyling of [Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin). A big thankyou to Nacandev for creating such an amazingly in-depth repository for me to learn from. Using this theme I styled it to a colour scheme that better suits myself and my needs. The colour scheme applied is also borrowed extensively from the [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) theme for VSCode. Having enjoyed both these themes, I took upon blending them together for a vibrant theme that isn't vexing. Another point which might be a big turn off is that I don't use the markdown viewer and am perfectly content working in the editor alone. Just feels snappier for me, so blame my toaster PC if you were hoping for the viewer to be modified too. Otherwise, take a gander.
 
 <img src="https://github.com/aaronhff8/plastic-joplin-theme/blob/main/screenshot.png">
 
@@ -15,9 +15,7 @@ Is the monospaced font.
 Optional third font for this theme is Work Sans which I appear to be using for the plugins. Don't recall why so skip this one and change the font settings in the plugins to Montserrat if you're not too bothered to look like mine.
 
 #### Install the fonts
-Download the zip files, extract the truetype font files (ttf), select them all, right-click and hit install.
-
-
+Download the zip files, extract the truetype font files (.ttf), select them all, right-click and hit install.
 
 
 ## Install
