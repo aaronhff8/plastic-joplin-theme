@@ -1113,6 +1113,7 @@
     border-radius: 1em;
     box-shadow: 0 0 2px var(--btb-box-shadow);
     z-index: 1;
+    width: 99%;
   }
   
   /* tags ---------------------------------------------------- */
@@ -1225,5 +1226,9 @@ div.sc-fzomME.list-item-container.note-list-item::before{
 }
 /*dont display seperator on selected note*/
 div.sc-fzomME.list-item-container.selected.note-list-item::before{
+  display:none;
+}
+/*Colour scrollbar*/
+::-webkit-scrollbar{
   display:none;
 }
